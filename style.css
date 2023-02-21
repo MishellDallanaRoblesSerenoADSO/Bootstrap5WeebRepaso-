@@ -15,7 +15,7 @@ body{
     font-size: 30px;
 }
 li a:hover {
-    border: 1px solid #ff702a;
+    border: 1px solid #06b028;
  }
 .navbar-collapse{
     align-items: center !important;
